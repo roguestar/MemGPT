@@ -2,6 +2,7 @@ colorama
 demjson3
 faiss-cpu
 geopy
+llama_index
 numpy
 openai
 pybars3
